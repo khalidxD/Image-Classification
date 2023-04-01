@@ -6,3 +6,5 @@ Next, I experimented with various machine learning algorithms to find the best a
 To make the model accessible to others, I deployed it on a Flask server using HTML, CSS, and JavaScript. Users can upload an image to the server and receive a prediction about the image's content based on the model's classification results.
 
 Overall, this project demonstrates the power of machine learning in image classification, as well as the practical applications of deploying a trained model on a web server for others to use.  
+
+![alt text](https://github.com/khalidxD/Image-Classification/blob/main/Screenshot.png)
